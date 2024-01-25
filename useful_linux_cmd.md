@@ -21,3 +21,5 @@
 ### Дерево папки
 `tree /path/to/directory`
 
+### Создать вложенную директорию
+`mkdir -p /path/to/directory`
